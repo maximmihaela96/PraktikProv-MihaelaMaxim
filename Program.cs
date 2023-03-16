@@ -30,12 +30,34 @@ class Program
                 else
                 {
                     //Displaya nodens innehåll i konsolen
-                    Console.WriteLine($"Noden innehåller följande text: {nodeContent} |text ");
+                    Console.WriteLine($"Noden innehåller följande text: |------ {nodeContent} ------| ");
                 }
             }
         }
-        Console.WriteLine("Targets värde skrevdes i filen nämnd |writeFile|");
-        //Skriva in nodens innehållet i ett befintligt textdokument 
-        File.WriteAllText(@"C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\writeInFile.txt", nodeContent);
+
+        //Definiera en sträng med filsökvägen
+        string filNamn = @"C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\writeInFile.txt";
+
+        try
+        {
+            // Kontrollera om filen redan finns. Om ja, ta bort den.  
+            if (File.Exists(filNamn))
+            {
+                File.Delete(filNamn);
+            }
+            //Skapa ny textfill
+            //File.CreateText()-metoden tar ett filnamn med den fullständiga sökvägen och skapar en fil på den angivna platsen "filNamn"
+            using (StreamWriter sWriter = File.CreateText(filNamn))
+            {
+                sWriter.WriteLine($"Ny fil skapades:  {DateTime.Now.ToString()}");
+                //Skriva in i filen med hjälp av StreamWriter 
+                sWriter.WriteLine($"Noden innehåller följande text: |----- {nodeContent} ------| ");
+            }
+            Console.WriteLine("Targets värde skrevdes i filen nämnd |-----writeInFile------|");
+        }
+        catch (Exception Ex)
+        {
+            Console.WriteLine(Ex.ToString());
+        }
     }
 }
