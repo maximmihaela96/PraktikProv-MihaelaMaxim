@@ -1,0 +1,15 @@
+C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\bin\Debug\net7.0\PraktikProv-MihaelaMaxim.exe
+C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\bin\Debug\net7.0\PraktikProv-MihaelaMaxim.deps.json
+C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\bin\Debug\net7.0\PraktikProv-MihaelaMaxim.runtimeconfig.json
+C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\bin\Debug\net7.0\PraktikProv-MihaelaMaxim.dll
+C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\bin\Debug\net7.0\PraktikProv-MihaelaMaxim.pdb
+C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\obj\Debug\net7.0\PraktikProv-MihaelaMaxim.csproj.AssemblyReference.cache
+C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\obj\Debug\net7.0\PraktikProv-MihaelaMaxim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\obj\Debug\net7.0\PraktikProv-MihaelaMaxim.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\obj\Debug\net7.0\PraktikProv-MihaelaMaxim.AssemblyInfo.cs
+C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\obj\Debug\net7.0\PraktikProv-MihaelaMaxim.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\obj\Debug\net7.0\PraktikProv-MihaelaMaxim.dll
+C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\obj\Debug\net7.0\refint\PraktikProv-MihaelaMaxim.dll
+C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\obj\Debug\net7.0\PraktikProv-MihaelaMaxim.pdb
+C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\obj\Debug\net7.0\PraktikProv-MihaelaMaxim.genruntimeconfig.cache
+C:\Users\maxim\source\repos - Web\PraktikProv-MihaelaMaxim\PraktikProv-MihaelaMaxim\obj\Debug\net7.0\ref\PraktikProv-MihaelaMaxim.dll
